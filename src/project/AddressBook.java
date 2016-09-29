@@ -23,7 +23,7 @@ public class AddressBook {
 	
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stu
 		BuddyInfo buddy = new BuddyInfo();
 		buddy.setNmae("David");
 		AddressBook addressBook = new AddressBook();
